@@ -1,0 +1,28 @@
+{
+    "name":"Karthikeya Reddy",
+    "email":"keyakarthik84@gmail.com",
+    "github":"https://github.com/Karthik11A",
+    "linkedin":"https://www.linkedin.com/in/putluri-karthikeya-reddy-840983308/",
+    
+    "instagram":"https://www.instagram.com/karthik.putluri/",
+    "roles":["Frontend Developer","Backend Developer","Full Stack Developer","UI/UXDesigner"],
+    "projects": [
+    {
+      "title": "College Club & Event Management System ",
+      "description": "The College Club & Event Management System is a web-based platform designed to streamline the planning, organization, and promotion of campus events and club activities.It enables students, faculty, and organizers to manage registrations, schedules, and announcements efficiently in one place.",
+      "link": "https://github.com/Karthik11A/college-club-event-management-system"
+    },
+    {
+      "title": "Weather App",
+      "description": "The Weather App provides real-time weather updates, forecasts, and location-based climate information.It allows users to check temperature, humidity, and weather conditions for any city or region worldwide.",
+      "link": "https://github.com/Karthik11A/weather-app"
+    },
+    {
+      "title": "Time-Zone-Alarm-App",
+      "description": "The Time Zone Alarm App allows users to set alarms based on different global time zones.It helps manage reminders and schedules across multiple regions, ideal for travelers and remote teams.",
+      "link": "https://github.com/Karthik11A/Time-Zone-Alarm-App"
+    }
+
+  ],
+ "about": "Hi, I’m Karthikeya Reddy Putluri, a Computer Science student with a passion for building intelligent, user-centric digital solutions. I am a passionate and detail-oriented developer with a keen interest in building efficient and user-friendly applications. Skilled in web development, problem-solving, and creating innovative solutions, I enjoy turning ideas into functional digital experiences. Always eager to learn and explore new technologies, I aim to contribute meaningfully to every project I take on."
+}
